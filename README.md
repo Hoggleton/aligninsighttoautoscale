@@ -88,7 +88,7 @@ For each matched Delivery Group the script:
 ## Understanding the Output
 
 ```
-━━ DG-AzureEUW-Windows11MS-Sales ━━
+━━ DG-AzureEUW-Windows11MS-LD-Standard ━━
   167 hourly records retrieved.
   Peak avg: 126 machines | Threshold: 89 machines (70%)
   Weekdays   Pool: 2-99 machines | Peak: 9:00-17:00
